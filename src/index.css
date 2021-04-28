@@ -5,9 +5,51 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url(./Images/fondo.jpg);
+  background-size: cover;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+a,p,img ,li{
+  display: inline;
+  
+}
+
+li{
+  padding: 50px;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+.rss{
+  position:relative;
+  top: 10px; 
+ }
+
+ .Header{
+   display: flex;
+ }
+ .nombrerss{
+  position: relative;
+  bottom: 20px;
+ }
+ .logo{
+   padding-left: 50px;
+ }
+ hr{
+   width: 95%;
+   background-color: black;
+   border-color: black;
+ }
+ .Newspot{
+  position: relative;
+  top: 100px;
+ }
+ .logos{
+   position: relative;
+   top: 0px;
+ }
