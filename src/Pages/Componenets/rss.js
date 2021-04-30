@@ -5,7 +5,9 @@ import wsp from "../../Images/whatsapp.png"
 
 export const RSSlogos = () => {
     return (
-        <div className="logos">
+        <div className="rss">
+            <ul className="listgroupstrong">
+                <li>
             <a
                 href="https://www.instagram.com/marifran.evy/"
                 title="logo de intagram"
@@ -13,10 +15,12 @@ export const RSSlogos = () => {
                 <img
                     src={instagram}
                     alt="logo de intagram"
-                    height="40px"
+                    height="45px"
 
                 />
             </a>
+            </li>
+            <li>
             <a
                 href="https://www.facebook.com/Marifran-113081250385534/"
                 title="logo de intagram"
@@ -29,6 +33,8 @@ export const RSSlogos = () => {
                 />
 
             </a>
+            </li>
+            <li>
             <a
                 href="https://api.whatsapp.com/send?phone=56957435617&text=Hola%2C+c%C3%B3mo+estas"
                 title="logo de intagram"
@@ -41,6 +47,8 @@ export const RSSlogos = () => {
                 />
 
             </a>
+            </li>
+            </ul>
             
         </div>
     )
