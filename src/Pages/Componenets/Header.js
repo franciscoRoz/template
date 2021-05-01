@@ -1,5 +1,4 @@
 import React from 'react'
-import logo from "../../Images/logo.png"
 
 import { RSS } from './rss.js'
 
@@ -12,7 +11,7 @@ export const Header = () => {
                     title="imagen logo marifran papeleria"
                 >
                     <img
-                        src={logo}
+                        src="https://i.imgur.com/tUYyU3s.png"
                         alt="imagen logo marifran papeleria"
                         height="110px"
 

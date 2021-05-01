@@ -5,9 +5,9 @@ import {PaginaConstruccion} from './Pages/PaginaConstruccion';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
-  <React.StrictMode >
-    <PaginaConstruccion />
-  </React.StrictMode>,
+ 
+    <PaginaConstruccion />,
+
   document.getElementById('root')
 );
 

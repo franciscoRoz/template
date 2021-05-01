@@ -1,7 +1,4 @@
 import React from 'react'
-import instagram from "../../Images/instagram.png"
-import facebook from "../../Images/facebook.png"
-import wsp from "../../Images/whatsapp.png"
 
 export const RSSlogos = () => {
     return (
@@ -13,7 +10,7 @@ export const RSSlogos = () => {
                 title="logo de intagram"
             >
                 <img
-                    src={instagram}
+                    src="https://i.imgur.com/aqZd2j3.png"
                     alt="logo de intagram"
                     height="45px"
 
@@ -23,11 +20,11 @@ export const RSSlogos = () => {
             <li>
             <a
                 href="https://www.facebook.com/Marifran-113081250385534/"
-                title="logo de intagram"
+                title="logo de Facebook"
             >
                 <img
-                    src={facebook}
-                    alt="logo de intagram"
+                    src="https://i.imgur.com/mnTjTbk.png"
+                    alt="logo de Facebook"
                     height="45px"
 
                 />
@@ -37,11 +34,11 @@ export const RSSlogos = () => {
             <li>
             <a
                 href="https://api.whatsapp.com/send?phone=56957435617&text=Hola%2C+c%C3%B3mo+estas"
-                title="logo de intagram"
+                title="logo de whatsapp"
             >
                 <img
-                    src={wsp}
-                    alt="logo de intagram"
+                    src="https://i.imgur.com/XL2u6y7.png"
+                    alt="logo de whatsapp"
                     height="50px"
 
                 />
@@ -63,7 +60,7 @@ export const RSS = () => {
                         title="logo de intagram"
                     >
                         <img
-                            src={instagram}
+                            src="https://i.imgur.com/aqZd2j3.png"
                             alt="logo de intagram"
                             height="50px"
 
@@ -77,7 +74,7 @@ export const RSS = () => {
                         title="logo de intagram"
                     >
                         <img
-                            src={facebook}
+                            src="https://i.imgur.com/mnTjTbk.png"
                             alt="logo de intagram"
                             height="55px"
 
