@@ -17,7 +17,9 @@ a,p,img ,li{
   display: inline;
   
 }
-
+img{
+  min-height: 30px;
+}
 
 a{
   text-decoration: none;
@@ -31,10 +33,7 @@ a{
  .Header{
    display: flex;
  }
- .nombrerss{
-  position: relative;
-  bottom: 20px;
- }
+ 
  .logo{
    padding-left: 50px;
  }
@@ -43,10 +42,7 @@ a{
    background-color: black;
    border-color: black;
  }
- .Newspot{
-  position: relative;
-  top: 100px;
- }
+ 
  .logos{
    position: relative;
    top: 0px;

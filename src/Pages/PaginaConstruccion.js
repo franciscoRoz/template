@@ -11,14 +11,16 @@ export const PaginaConstruccion = () => {
             <hr />
             <div 
             align="center" 
-            className="Newspot">
-                <h1 >Pagina en construccion</h1>
-                <p width="50%">pronto podras comprar todos los productos que quieras.
+            className="container">
+                <h1 >página en construcción</h1>
+                <img src="https://i.imgur.com/DsDp9qn.png" alt="imagen de sitio en construccion" height="400px"></img>
                 <br/>
-                marifran personaliza tus ideas</p>
+             
+                <p >Pronto podrás comprar todos los productos que quieras.
+                Marifran personaliza tus ideas
                 <br/>
-                <br/>
-                <p >encuentranos en : <RSSlogos/>
+           
+                encuentranos en : <RSSlogos/>
                     
                 </p>
                 
